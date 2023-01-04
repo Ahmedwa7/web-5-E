@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.contact{
+    width: 140px;
+    height: 40px;
+    background-color: brown;
+    color: aliceblue;
+}
+.vbvb{
+    margin-top: 70px;
+}
+.xcxc{
+    width: 80%;
+    height: 50px;
+    width: 300px;
+    margin: 10px;
+    width: 300px;margin: 10px;
+    
+}
+.zxzxzx{
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 250px;
+    
+}
+
+.bnbnbn:hover{
+    box-shadow:  5px 5px 4px 5px rgb(179, 172, 172)
+   }
+   .nm:hover{
+    box-shadow:  5px 5px 4px 5px rgb(12, 227, 52)
+   }
+   .active:hover{
+height: max-content;
+ width:max-content;
+ background-color: aqua;
+ color: white;
+border-radius: 20px;
+    }
+    .active:hover{
+ height: max-content;
+width:max-content;
+ background-color: aqua;
+ color: white;
+ border-radius: 20px;
+   }
+   .bnbn:hover{
+    box-shadow:  5px 5px 4px 5px rgb(50, 3, 206)
+   }
+   .bn:hover{
+    box-shadow:  5px 5px 4px 5px rgb(215, 13, 13)
+   }
+  
+   .aa{
+    margin-left: 180px;
+   }
+   #eye{
+    margin-left: -50px;
+    cursor: pointer;
+   }
+   .mnmn{
+    margin-top: 20px;
+   }
+   .span{
+    margin-left: 25%
+   }
+.style{
+    font-size: 20px;
+    padding: 5px;
+    width: 20px;
+}
+.zxc{
+    font-size: 20px;
+    padding: 5px;
+    width: 20px;
+}
+.login{
+    margin: 20px;
+}
+.trtr{
+    color: rgb(204, 213, 221);
+}
+.vbvb1{
+    background-color: red;
+    border: none;
+}
+.cvb{
+    background-color: blue;
+    border: none;
+}
+.ty{
+    display: flex;
+    margin-top: 10px;
+  
+}
+.ty a{
+    margin-left: 50px;
+}
+.active a{
+    text-decoration: none;
+}
+.imn{
+    margin-left: 30%;
+    }
+    .bv{
+    margin-left: 60%;
+    width: 250px;
+    
+    }
+.cacaca{
+    /* margin-right: 200px; */
+    /* flex-direction: column; */
+    display: flex;
+}
